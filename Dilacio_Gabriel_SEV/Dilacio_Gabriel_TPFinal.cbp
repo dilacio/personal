@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dilacio_Gabriel_TPFinal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option show_notes="1">
+			<notes>
+				<![CDATA[UTN - FRGP - ANEXO JOSÉ C. PAZ.
+LABORATORIOS DE COMPUTACIÓN 1 Y 2.
+PROFESOR : Rubén A. Calabuig.
+AYUDANTE : Fernando Calabuig.
+]]>
+			</notes>
+		</Option>
+		<Build>
+			<Target title="Debug">
+				<Option output="./Dilacio_Gabriel_TPFinal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="DTO" />
+					<Add directory="VIEW" />
+					<Add directory="DAL" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="./Dilacio_Gabriel_TPFinal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="DTO" />
+					<Add directory="VIEW" />
+					<Add directory="DAL" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="CSYSTEM/csystem.h" />
+		<Unit filename="DAL/CandidatoDAL.cpp" />
+		<Unit filename="DAL/CandidatoDAL.h" />
+		<Unit filename="DAL/PartidoDAL.cpp" />
+		<Unit filename="DAL/PartidoDAL.h" />
+		<Unit filename="DAL/ProvinciaDAL.cpp" />
+		<Unit filename="DAL/ProvinciaDAL.h" />
+		<Unit filename="DAL/PuestoDAL.cpp" />
+		<Unit filename="DAL/PuestoDAL.h" />
+		<Unit filename="DAL/VotanteDAL.cpp" />
+		<Unit filename="DAL/VotanteDAL.h" />
+		<Unit filename="DAL/VotoDAL.cpp" />
+		<Unit filename="DAL/VotoDAL.h" />
+		<Unit filename="DTO/CandidatoDTO.cpp" />
+		<Unit filename="DTO/CandidatoDTO.h" />
+		<Unit filename="DTO/PartidoDTO.cpp" />
+		<Unit filename="DTO/PartidoDTO.h" />
+		<Unit filename="DTO/ProvinciaDTO.cpp" />
+		<Unit filename="DTO/ProvinciaDTO.h" />
+		<Unit filename="DTO/PuestoDTO.cpp" />
+		<Unit filename="DTO/PuestoDTO.h" />
+		<Unit filename="DTO/VotanteDTO.cpp" />
+		<Unit filename="DTO/VotanteDTO.h" />
+		<Unit filename="DTO/VotoDTO.cpp" />
+		<Unit filename="DTO/VotoDTO.h" />
+		<Unit filename="LICENCIA GPL/Licencia GPL (traduccion NO OFICIAL - castellano argentina).txt" />
+		<Unit filename="LICENCIA GPL/Licencia GPL original (ingles).txt" />
+		<Unit filename="VIEW/Alta_VotanteView.cpp" />
+		<Unit filename="VIEW/Alta_VotanteView.h" />
+		<Unit filename="VIEW/AuxiliaresView.cpp" />
+		<Unit filename="VIEW/AuxiliaresView.h" />
+		<Unit filename="VIEW/Consulta_PadronView.cpp" />
+		<Unit filename="VIEW/Consulta_PadronView.h" />
+		<Unit filename="VIEW/PrincipalView.cpp" />
+		<Unit filename="VIEW/PrincipalView.h" />
+		<Unit filename="VIEW/ResultadosView.cpp" />
+		<Unit filename="VIEW/ResultadosView.h" />
+		<Unit filename="VIEW/VotarView.cpp" />
+		<Unit filename="VIEW/VotarView.h" />
+		<Unit filename="common/Auxiliar.cpp" />
+		<Unit filename="common/Auxiliar.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,396 @@
+# depslib dependency file v1.0
+1561500197 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\candidatodal.cpp
+	"CandidatoDAL.h"
+	<cstdio>
+	"../DTO/CandidatoDTO.h"
+
+1561546465 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\candidatodal.h
+	"../DTO/CandidatoDTO.h"
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\candidatodto.h
+	<cstring>
+
+1561499821 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\partidodal.cpp
+	"PartidoDAL.h"
+
+1561547810 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\partidodal.h
+	"../DTO/PartidoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+	<cstdio>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\partidodto.h
+	<cstring>
+
+1561500098 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\provinciadal.cpp
+	"ProvinciaDAL.h"
+
+1561547955 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\provinciadal.h
+	"../DTO/ProvinciaDTO.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\provinciadto.h
+	<cstring>
+
+1561500232 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\puestodal.cpp
+	"PuestoDAL.h"
+
+1561548020 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\puestodal.h
+	"../DTO/PuestoDTO.h"
+	<iostream>
+	<cstdio>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\puestodto.h
+	<cstring>
+
+1561501024 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\votantedal.cpp
+	"VotanteDAL.h"
+
+1561548132 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\votantedal.h
+	<cstdio>
+	"../DTO/VotanteDTO.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\votantedto.h
+	<cstring>
+
+1561501204 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\votodal.cpp
+	"VotoDAL.h"
+
+1561548276 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\votodal.h
+	"../DTO/VotoDTO.h"
+	<cstdio>
+
+1561048390 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\votodto.h
+
+1561430598 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\candidatodto.cpp
+	"CandidatoDTO.h"
+
+1560785505 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\partidodto.cpp
+	"PartidoDTO.h"
+
+1559411737 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\provinciadto.cpp
+	"ProvinciaDTO.h"
+
+1559411634 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\puestodto.cpp
+	"PuestoDTO.h"
+
+1559266706 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\votantedto.cpp
+	"VotanteDTO.h"
+
+1559319326 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dto\votodto.cpp
+	"VotoDTO.h"
+
+1560452485 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"View\PrincipalView.h"
+
+-1 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1561556402 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\principalview.h
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"Consulta_PadronView.h"
+	"Alta_VotanteView.h"
+	"AuxiliaresView.h"
+	"VotanteDAL.h"
+	"VotarView.h"
+	"ResultadosView.h"
+
+1561548384 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\alta_votanteview.h
+	<iostream>
+	"../DAL/VotanteDAL.h"
+	"../DTO/VotanteDTO.h"
+	"../DAL/ProvinciaDAL.h"
+	<stdlib.h>
+	"AuxiliaresView.h"
+
+1561501840 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\principalview.cpp
+	"PrincipalView.h"
+
+1561501287 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\alta_votanteview.cpp
+	"Alta_VotanteView.h"
+
+1560450572 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\auxiliardal.cpp
+	"AuxiliarDAL.h"
+
+1560450628 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\dal\auxiliardal.h
+	<cstring>
+
+1561555751 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\auxiliaresview.h
+	"../DTO/ProvinciaDTO.h"
+	"../DAL/ProvinciaDAL.h"
+	"../common/Auxiliar.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	"AuxiliarDAL.h"
+	<stdlib.h>
+	<windows.h>
+	"CandidatoDAL.h"
+	"CandidatoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+	"PuestoDAL.h"
+	"PuestoDTO.h"
+	"VotoDAL.h"
+	"VotoDTO.h"
+	"VotanteDAL.h"
+	"VotanteDTO.h"
+
+1561508700 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\auxiliaresview.cpp
+	"AuxiliaresView.h"
+
+1561498907 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\common\auxiliar.cpp
+	"Auxiliar.h"
+
+1561546391 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\common\auxiliar.h
+	<stdio.h>
+	<string.h>
+
+1561556208 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\consulta_padronview.h
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"VotanteDAL.h"
+	"AuxiliaresView.h"
+
+1561501691 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\consulta_padronview.cpp
+	"Consulta_PadronView.h"
+
+1561503633 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\votarview.cpp
+	"VotarView.h"
+
+1561558174 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\votarview.h
+	"VotoDAL.h"
+	"VotoDTO.h"
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"../common/Auxiliar.h"
+	"AuxiliaresView.h"
+	"VotanteDAL.h"
+	"VotanteDTO.h"
+
+1561507792 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\resultadosview.cpp
+	"ResultadosView.h"
+
+1561558330 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp final\view\resultadosview.h
+	<iostream>
+	<cstdio>
+	"AuxiliaresView.h"
+	"VotoDAL.h"
+	"VotoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+
+1561498907 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\common\auxiliar.cpp
+	"Auxiliar.h"
+
+1561546391 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\common\auxiliar.h
+	<stdio.h>
+	<string.h>
+
+1561500197 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\candidatodal.cpp
+	"CandidatoDAL.h"
+	<cstdio>
+	"../DTO/CandidatoDTO.h"
+
+1561546465 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\candidatodal.h
+	"../DTO/CandidatoDTO.h"
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\candidatodto.h
+	<cstring>
+
+1561499821 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\partidodal.cpp
+	"PartidoDAL.h"
+
+1561547810 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\partidodal.h
+	"../DTO/PartidoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+	<cstdio>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\partidodto.h
+	<cstring>
+
+1561500098 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\provinciadal.cpp
+	"ProvinciaDAL.h"
+
+1561547955 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\provinciadal.h
+	"../DTO/ProvinciaDTO.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\provinciadto.h
+	<cstring>
+
+1561500232 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\puestodal.cpp
+	"PuestoDAL.h"
+
+1561548020 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\puestodal.h
+	"../DTO/PuestoDTO.h"
+	<iostream>
+	<cstdio>
+	"../common/Auxiliar.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\puestodto.h
+	<cstring>
+
+1561501024 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\votantedal.cpp
+	"VotanteDAL.h"
+
+1561548132 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\votantedal.h
+	<cstdio>
+	"../DTO/VotanteDTO.h"
+
+1561506366 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\votantedto.h
+	<cstring>
+
+1561501204 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\votodal.cpp
+	"VotoDAL.h"
+
+1561548276 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\votodal.h
+	"../DTO/VotoDTO.h"
+	<cstdio>
+
+1561048390 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\votodto.h
+
+1561430598 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\candidatodto.cpp
+	"CandidatoDTO.h"
+
+1560785505 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\partidodto.cpp
+	"PartidoDTO.h"
+
+1559411737 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\provinciadto.cpp
+	"ProvinciaDTO.h"
+
+1559411634 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\puestodto.cpp
+	"PuestoDTO.h"
+
+1559266706 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\votantedto.cpp
+	"VotanteDTO.h"
+
+1559319326 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dto\votodto.cpp
+	"VotoDTO.h"
+
+1560452485 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\main.cpp
+	<iostream>
+	<cstdlib>
+	"CSYSTEM/csystem.h"
+	"View\PrincipalView.h"
+
+-1 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1561556402 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\principalview.h
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"Consulta_PadronView.h"
+	"Alta_VotanteView.h"
+	"AuxiliaresView.h"
+	"VotanteDAL.h"
+	"VotarView.h"
+	"ResultadosView.h"
+
+1561556208 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\consulta_padronview.h
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"VotanteDAL.h"
+	"AuxiliaresView.h"
+
+1561555751 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\auxiliaresview.h
+	"../DTO/ProvinciaDTO.h"
+	"../DAL/ProvinciaDAL.h"
+	"../common/Auxiliar.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	"AuxiliarDAL.h"
+	<stdlib.h>
+	<windows.h>
+	"CandidatoDAL.h"
+	"CandidatoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+	"PuestoDAL.h"
+	"PuestoDTO.h"
+	"VotoDAL.h"
+	"VotoDTO.h"
+	"VotanteDAL.h"
+	"VotanteDTO.h"
+
+1560450628 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\dal\auxiliardal.h
+	<cstring>
+
+1561548384 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\alta_votanteview.h
+	<iostream>
+	"../DAL/VotanteDAL.h"
+	"../DTO/VotanteDTO.h"
+	"../DAL/ProvinciaDAL.h"
+	<stdlib.h>
+	"AuxiliaresView.h"
+
+1561558174 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\votarview.h
+	"VotoDAL.h"
+	"VotoDTO.h"
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	"../common/Auxiliar.h"
+	"AuxiliaresView.h"
+	"VotanteDAL.h"
+	"VotanteDTO.h"
+
+1561558330 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\resultadosview.h
+	<iostream>
+	<cstdio>
+	"AuxiliaresView.h"
+	"VotoDAL.h"
+	"VotoDTO.h"
+	"PartidoDAL.h"
+	"PartidoDTO.h"
+
+1561501287 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\alta_votanteview.cpp
+	"Alta_VotanteView.h"
+
+1561508700 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\auxiliaresview.cpp
+	"AuxiliaresView.h"
+
+1561501691 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\consulta_padronview.cpp
+	"Consulta_PadronView.h"
+
+1561501840 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\principalview.cpp
+	"PrincipalView.h"
+
+1561507792 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\resultadosview.cpp
+	"ResultadosView.h"
+
+1561503633 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\dilacio_gabriel_sev\view\votarview.cpp
+	"VotarView.h"
+
