@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1556829986 source:c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp 1 laboratorio\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	"CSYSTEM/csystem.h"
+	"Pantallas.h"
+	"Funciones.h"
+	"Menus.h"
+
+-1 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp 1 laboratorio\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1556830852 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp 1 laboratorio\funciones.h
+
+1556831077 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp 1 laboratorio\pantallas.h
+
+1556652540 c:\users\gdilacio.nbbasar605\documents\mio\utn\laboratorio ii\tp 1 laboratorio\menus.h
+
+1556834319 source:c:\users\gdilacio.nbbasar605\desktop\dilacio_gabriel\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<stdio.h>
+	"CSYSTEM/csystem.h"
+	"Pantallas.h"
+	"Funciones.h"
+	"Menus.h"
+
+-1 c:\users\gdilacio.nbbasar605\desktop\dilacio_gabriel\csystem\csystem.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<unistd.h>
+
+1556836347 c:\users\gdilacio.nbbasar605\desktop\dilacio_gabriel\pantallas.h
+
+1556837408 c:\users\gdilacio.nbbasar605\desktop\dilacio_gabriel\funciones.h
+
+1556836704 c:\users\gdilacio.nbbasar605\desktop\dilacio_gabriel\menus.h
+
